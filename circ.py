@@ -83,4 +83,3 @@ for _ in range(10):
 
 
 #Metaclasses from beginner to advanced
-
